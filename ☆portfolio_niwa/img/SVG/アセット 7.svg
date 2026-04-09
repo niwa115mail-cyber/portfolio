@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 332.5 355.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#_近似色_1);
+        stroke-width: 15px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: url(#_新規グラデーションスウォッチ_1_コピー);
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        fill: #f26200;
+        font-family: JavaneseText, 'Javanese Text';
+        font-size: 112.56px;
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="_近似色_1" data-name="近似色 1" x1="168.01" y1="66.47" x2="163.96" y2="365.45" gradientTransform="translate(349.99 421.96) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbda15"/>
+      <stop offset=".51" stop-color="#e60012"/>
+      <stop offset="1" stop-color="#f08300"/>
+    </linearGradient>
+    <linearGradient id="_新規グラデーションスウォッチ_1_コピー" data-name="新規グラデーションスウォッチ 1 コピー" x1="68" y1="220" x2="301" y2="220" gradientTransform="translate(-36 388) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".91" stop-color="#090909"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <text class="cls-3" transform="translate(104.19 237.21) scale(1.55 1)"><tspan x="0" y="0">Ai</tspan></text>
+      <g>
+        <ellipse class="cls-1" cx="184" cy="206" rx="141" ry="142"/>
+        <ellipse class="cls-2" cx="184" cy="203.5" rx="112.8" ry="111.5"/>
+        <text/>
+      </g>
+    </g>
+  </g>
+</svg>
