@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="WebデザイナーNiwa Akemiのポートフォリオ">
+  <meta property="og:url" content="https://adjustacademy.com/d2312/d231223-111201/site01">
+  <meta property="og:description" content="Niwa Akemiのポートフォリオサイトです。">
+  <meta property="og:image" content="img/ogp.png">
+  <meta name="description" content="Niwa Akemiのポートフォリオサイトです">
+  <title>Akemi Niwa ポートフォリオ</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined">
+  <link rel="stylesheet" href="css/ress.css" media="all">
+  <link rel="stylesheet" href="css/style.css" media="all">
+  <link rel="icon" href="img/favicon.ico">
+  <link rel="canonical" href="https://adjustacademy.com/d2312/d231223-111201/site01">
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- header -->
+    <header class="header ">
+        <h1 class="header-logo">
+          <a href="#">Niwa Akemi</a>
+        </h1>
+        <nav class="gnav">
+          <ul class="gnav-list">
+            <li class="gnav-item"><a href="#works">works</a></li>
+            <li class="gnav-item"><a href="#skill">skill</a></li>
+            <li class="gnav-item"><a href="#about">about</a></li>
+            <li class="gnav-item"><a href="#contact">contact</a></li>
+          </ul>
+        </nav>
+    </header>
+    <!-- /header -->
+
+    <main class="content">
+      <!-- mv -->
+      <div class="mv">
+        <div class="mv-container">
+          <p class="mv-title">Niwa Akemi</p>
+          <p class="mv-subtitle">portfolio</p>
+          <p class="mv-text">
+            ユーザーとお客様が心から満足できる<br class="sp-only">サイトをお作りいたします。<br>
+            デザインとコーディングは<br class="sp-only">おまかせください。<br>
+          </p>
+        </div>
+      </div>
+      <!-- /mv -->
+
+      <!-- works -->
+      <div class="works section" id="works">
+        <section class="container">
+          <h2 class="title">works</h2>
+          <div class="works-list">
+            <a class="works-item" href="https://adjustacademy.com/d2312/d231223-111201/site01">
+              <div class="works-img"><img src="img/site01_.png" width="400" height="300" alt="作品サムネイル画像"></div>
+              <p class="works-name">ファミリー動物病院</p>
+              <p class="works-info">Design / Coding</p>
+            </a>
+            <a class="works-item" href="https://adjustacademy.com/d2312/d231223-111201/site02">
+              <div class="works-img"><img src="img/site02.png" width="400" height="300" alt="作品サムネイル画像"></div>
+              <p class="works-name">株式会社SpaceCreationDesign</p>
+              <p class="works-info">Design / Coding</p>
+            </a>
+            <a class="works-item" href="https://adjustacademy.com/d2312/d231223-111201/bn_23_niwa">
+              <div class="works-img"><img src="img/banner01_.png" width="400" height="300" alt="作品サムネイル画像"></div>
+              <p class="works-name">株式会社AJFキャンペーンバナー</p>
+              <p class="works-info">Design</p>
+            </a>
+            <a class="works-item" href="http://127.0.0.1:5500/banner_1.html">
+              <div class="works-img"><img src="img/banner02_ .png" width="400" height="300" alt="作品サムネイル画像"></div>
+              <p class="works-name">バナー広告制作【Photoshop】</p>
+              <p class="works-info">Banner Design</p>
+            </a>
+            <a class="works-item" href="http://127.0.0.1:5500/logo.html">
+              <div class="works-img"><img src="img/logo.jpg" width="400" height="300" alt="作品サムネイル画像"></div>
+              <p class="works-name">ロゴ制作【illustrator】</p>
+              <p class="works-info">logo Design</p>
+            </a>
+           
+          </div>
+        </section>
+      </div>
+      <!-- /works -->
+
+      <!-- skill -->
+      <div class="skill section" id="skill">
+        <section class="container">
+          <h2 class="title">web skill</h2>
+          <div class="skill-list">
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/html_icon.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">HTML</h3>
+                <p class="skill-text">VisualStudioCodeを使用して、Webページの内容や構造を定義するために文字や画像・動画・リンクといった要素をどのようにWebページ内に配置するかを記述する方法を習得しました。
+                  </p>
+              </div>
+            </div>
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/css_icon.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">CSS</h3>
+                <p class="skill-text">
+                 HTMLの要素に色・大きさ・配置などのデザインの設定を加えて方法を取得しました。</p>
+              </div>
+            </div>
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/jQuery.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">JavaScript(jQuery)</h3>
+                <p class="skill-text">
+                  JQueryのダウンロードによりサイトに動きをつけたり、プラグイン設定や組み込みなど基礎知識を習得しました。</p>
+              </div>
+            </div>
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/wp_icon.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">WordPress</h3>
+                <p class="skill-text">
+                  WordPressを使用したWebサイトの更新の仕方を習得しました。</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="skill section" id="skill_2">
+        <section class="container">
+          <h2 class="title">application operation</h2>
+          <div class="skill-list">
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/ps.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">Photoshop</h3>
+                <p class="skill-text">
+                  Photoshopを使用して画像加工（サイズ変更、トリミング、色調補正、合成など）取得しました。</p>
+              </div>
+            </div>
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/Ai.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">Illustrator</h3>
+                <p class="skill-text">
+                  illustratorを使用してWebサイトコンテンツのパーツやロゴ作成をしました。</p>
+              </div>
+            </div>
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/xd.png" width="400" height="300" alt="作品サムネイル画像"></p>
+              <div class="skill-body">
+                <h3 class="skill-name">XD</h3>
+                <p class="skill-text">
+                  Adobe XD（エクスペリエンスデザイン）を使用したプロトタイプ・Webデザインレイアウト制作基礎を習得しました。</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <!-- /skill -->
+
+      <!-- about -->
+      <div class="about section" id="about">
+        <section class="container">
+          <h2 class="title">about</h2>
+          <div class="profile">
+            <p class="profile-img">
+              <img src="img/profile.jpg" width="400" height="300" alt="作品サムネイル画像">
+            </p>
+            <div class="profile-body">
+              <p>
+                3か月間職業訓練校でWebデザイナー・ディレクター養成（オンライン）科でAdobe基礎的なことから、HTML・CSS、Photoshop・制作実習、サイトデザイン（XD）、JQuery,illustrator、Webサイト制作、スマートフォン制作、ポートフォリオ制作実習、ポートフォリオ制作実習、DreamWeaver、WordPressなどの知識を習得するための実習や課題などを通して基礎的なことを習得しました。
+全く未経験からのスタートでしたが、Webサイトページ・バナー広告・ロゴマークが作れるようになりました。
+              </p>
+              <p>
+                未経験ではありますが昔からモノを作り上げていくことが好きで、以前ネイリストに従事していた時にデザインと配置・配色のノウハウを学び、一つのモノが少しずつ形になって出来上がる満足感は忘れられないです。経験もなく未熟な面も多いのですが、持ち前の粘り強さで諦めずにやり遂げる責任感はあります。どうぞ宜しくお願い致します。
+            </div>
+          </div>
+        </section>
+      </div>
+      <!-- /about -->
+
+      <!-- contact -->
+      <div class="contact section" id="contact">
+        <section class="container">
+          <h2 class="title">contact</h2>
+          <p class="lead">
+            お問い合わせは、<br class="sp-only">メールにてお願いいたします。
+          </p>
+          <div class="contact-list">
+            <span class="contact-item">pretty-jen1008@outlook.jp</span>
+          </div>
+        </section>
+      </div>
+      <!-- /contact -->
+      <div class="page-top" id="js-page-top">
+        <span class="material-icons-outlined">expand_less</span>
+      </div>
+    </main>
+
+    <!-- footer -->
+    <footer class="footer">
+      <div class="copyright">&copy;Niwa Akemi</div>
+    </footer>
+    <!-- /footer -->
+
+  </div>
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
