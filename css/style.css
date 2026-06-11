@@ -594,9 +594,16 @@ h2.title {
 
   .works-img {
     width: 100%;
+    margin: 0 auto;
   }
 
   .works-img img {
     width: 100%;
+  }
+}
+@media screen and (max-width: 767px) {
+  /* スマホのときは不要な余白を消す */
+  .works-list::after {
+    display: none;
   }
 }
